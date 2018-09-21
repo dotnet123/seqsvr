@@ -7,8 +7,8 @@ step: 100
 #db
 mysql:
   user: 'root'
-  password: ''
-  host: 'tcp(localhost:3306)'
-  database: 'sequence'
+  password: 'Windows2000!'
+  host: 'tcp(10.1.62.230:3306)'
+  database: 'orderhistory'
   maxidle: 2
   maxopen: 10
